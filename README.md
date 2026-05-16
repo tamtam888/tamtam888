@@ -27,6 +27,7 @@ AI-powered music experience that organizes listening around mood, energy, BPM, a
 ### TaskAi
 Hebrew RTL task management SaaS built with Next.js, Supabase Auth, Row Level Security, dashboards, focus mode, smart filters, and responsive task views.
 
+- Live Demo: https://task-1mezh0h1x-tamar-karwans-projects.vercel.app/login
 - Repository: https://github.com/tamtam888/TaskAi
 - Tech: Next.js, TypeScript-based codebase, Supabase, Tailwind CSS, shadcn/ui, TanStack Table
 
