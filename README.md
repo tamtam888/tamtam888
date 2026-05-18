@@ -11,7 +11,7 @@ I build practical, human-centered products with clean frontend architecture, rea
 ## Featured Projects
 
 ### MedicalCare
-AI-assisted clinic management platform for therapists, focused on patient records, intake workflows, treatment documentation, appointment scheduling, Hebrew/English support, RTL layout, privacy-aware AI summaries, and video-based progress tracking.
+Beta HealthTech platform delivered to real pilot users, including physiotherapists and hydrotherapists. MedicalCare supports patient records, intake workflows, treatment documentation, appointment scheduling, Hebrew/English support, RTL layout, privacy-aware AI summaries, and video-based progress tracking.
 
 - Live Demo: https://demo-medical-care.vercel.app
 - Repository: https://github.com/tamtam888/MaddCare
