@@ -27,6 +27,7 @@ AI-powered music experience that organizes listening around mood, energy, BPM, a
 ### CX Agent Assist
 Frontend MVP for a customer support Agent Assist workflow. The app uses mock AI-style analysis to classify customer messages, detect intent, sentiment, and priority, suggest a reply, and recommend the next action for a support agent.
 
+- Live Demo: https://cx-agent-assist.vercel.app/
 - Repository: https://github.com/tamtam888/CX-Agent-Assist
 - Tech: React, JavaScript, Vite, component CSS, mock AI-style analysis, customer support workflow
 
