@@ -4,7 +4,7 @@
 
 I build practical, human-centered products with clean frontend architecture, real user workflows, responsive UX, and secure data handling. I also build focused AI-style workflow prototypes that connect frontend development with business process automation.
 
-[Portfolio](https://tamtam888.github.io/MyPortfolio/) | [LinkedIn](https://linkedin.com/in/tamar-karwan-b4784b256) | [GitHub](https://github.com/tamtam888)
+[Portfolio](https://tamtam888.github.io/MyPortfolio/?utm_source=github&utm_medium=profile&utm_campaign=github_profile) | [LinkedIn](https://linkedin.com/in/tamar-karwan-b4784b256) | [GitHub](https://github.com/tamtam888)
 
 ---
 
@@ -71,4 +71,4 @@ Gamified React task manager with Google OAuth, priorities, deadlines, scoring, l
 
 - Email: tkarwan@gmail.com
 - LinkedIn: https://linkedin.com/in/tamar-karwan-b4784b256
-- Portfolio: https://tamtam888.github.io/MyPortfolio/
+- Portfolio: https://tamtam888.github.io/MyPortfolio/?utm_source=github&utm_medium=profile&utm_campaign=github_profile
