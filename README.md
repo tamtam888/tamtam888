@@ -2,7 +2,7 @@
 
 **Frontend Developer focused on React, JavaScript, HealthTech, AI-powered web applications, and automation workflows.**
 
-I build practical, human-centered products with clean frontend architecture, real user workflows, responsive UX, and secure data handling. I also build focused AI-style workflow prototypes that connect frontend development with business process automation.
+I build practical, human-centered products with clean frontend architecture, real user workflows, responsive UX, and secure data handling. My featured work spans clinical workflows, interview preparation, and customer support. I also develop productivity tools and AI-assisted user experiences.
 
 [Portfolio](https://tamtam888.github.io/MyPortfolio/?utm_source=github&utm_medium=profile&utm_campaign=github_profile) | [LinkedIn](https://linkedin.com/in/tamar-karwan-b4784b256) | [GitHub](https://github.com/tamtam888)
 
@@ -16,6 +16,20 @@ Beta HealthTech platform delivered to real pilot users, including physiotherapis
 - Live Demo: https://demo-medical-care.vercel.app
 - Repository: https://github.com/tamtam888/MaddCare
 - Tech: React, Vite, Supabase, FullCalendar, Medplum/FHIR, IndexedDB, AI-assisted documentation
+
+### Interview Simulator
+Bilingual interview practice across 10 professional roles with typed or supported voice input, structured scoring, session summaries, and optional AI evaluation. Local feedback works without an API connection.
+
+- Live Demo: https://interview-sim-ten.vercel.app/
+- Repository: https://github.com/tamtam888/InterviewSim
+- Tech: React, JavaScript, Vite, optional OpenAI API, Hebrew RTL, voice input
+
+### CX Agent Assist
+Interactive customer support workspace for fictional tickets, case analysis, a searchable knowledge base, internal notes, and response drafting. Supports rules-based guidance and optional live AI-powered conversations via a server-side API. No real customer messages are sent.
+
+- Live Demo: https://cx-agent-assist.vercel.app/
+- Repository: https://github.com/tamtam888/CX-Agent-Assist
+- Tech: React, JavaScript, Vite, optional OpenAI API, Vercel Functions
 
 ### VIBE Music
 AI-powered music experience that organizes listening around mood, energy, BPM, and flow instead of static playlists.
