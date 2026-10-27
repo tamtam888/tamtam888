@@ -14,7 +14,8 @@ I build practical, human-centered products with clean frontend architecture, rea
 Beta HealthTech platform delivered to real pilot users, including physiotherapists and hydrotherapists. MedicalCare supports patient records, intake workflows, treatment documentation, appointment scheduling, Hebrew/English support, RTL layout, privacy-aware AI summaries, and video-based progress tracking.
 
 - Live Demo: https://demo-medical-care.vercel.app
-- Repository: https://github.com/tamtam888/MaddCare
+- Repository: https://github.com/tamtam888/MaddCare (repository name: `MaddCare`; product name: **MedicalCare**)
+- Case study: https://tamtam888.github.io/MyPortfolio/medicalcare.html
 - Tech: React, Vite, Supabase, FullCalendar, Medplum/FHIR, IndexedDB, AI-assisted documentation
 
 ### Interview Simulator
