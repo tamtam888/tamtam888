@@ -1,6 +1,6 @@
 # Hi, I'm Tamar Karwan 👋
 
-**Frontend Developer focused on React, JavaScript, HealthTech, AI-powered web applications, and automation workflows.**
+**Frontend & AI Application Developer | React · JavaScript · HealthTech · AI-assisted products and automation.**
 
 I build practical, human-centered products with clean frontend architecture, real user workflows, responsive UX, and secure data handling. My featured work spans clinical workflows, interview preparation, and customer support. I also develop productivity tools and AI-assisted user experiences.
 
@@ -19,7 +19,7 @@ Beta HealthTech platform delivered to real pilot users, including physiotherapis
 - Tech: React, Vite, Supabase, FullCalendar, Medplum/FHIR, IndexedDB, AI-assisted documentation
 
 ### Interview Simulator
-Bilingual interview practice across 10 professional roles with typed or supported voice input, structured scoring, session summaries, and optional AI evaluation. Local feedback works without an API connection.
+Bilingual interview practice across 10 professional roles with typed or supported voice input, optional AI-narrated questions, separate rephrased-question playback, structured scoring, session summaries, and optional AI evaluation. Local feedback works without an API connection.
 
 - Live Demo: https://interview-sim-ten.vercel.app/
 - Repository: https://github.com/tamtam888/InterviewSim
@@ -33,7 +33,7 @@ Interactive customer support workspace for fictional tickets, case analysis, a s
 - Tech: React, JavaScript, Vite, optional OpenAI API, Vercel Functions
 
 ### VIBE Music
-AI-powered music experience that organizes listening around mood, energy, BPM, and flow instead of static playlists.
+Mood-first music experience that organizes listening around energy, BPM, and flow, using custom sequencing logic and optional AI-powered generation tools.
 
 - Live Demo: https://vibe-music-app-phi.vercel.app
 - Repository: https://github.com/tamtam888/vibe-music-app
@@ -59,7 +59,8 @@ Gamified React task manager with Google OAuth, priorities, deadlines, scoring, l
 
 **Frontend:** React, JavaScript, Next.js, Vite, HTML5, CSS3, Tailwind CSS, TypeScript project exposure  
 **Backend and Data:** Supabase, PostgreSQL, RLS, IndexedDB, Medplum/FHIR  
-**AI and Tools:** AI-assisted development, prompt engineering, OpenAI API, Cursor, Claude Code, Make.com, n8n  
+**AI-assisted development:** Claude Code, Cursor, Lovable, Bolt.new, Base44, ChatGPT (vibe coding workflows)  
+**AI integration and automation:** OpenAI API, prompt engineering, Make, n8n, Airtable  
 **DevOps:** Git, GitHub Actions, Docker, Vercel, Render  
 **Testing:** Vitest, Jest, React Testing Library, Playwright-ready structure
 
