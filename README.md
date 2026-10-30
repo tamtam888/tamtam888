@@ -1,6 +1,6 @@
-# Tamar Karwan | Frontend Developer
+# Tamar Karwan | Frontend Developer · AI Integration
 
-**React & JavaScript · AI-powered web applications · HealthTech**
+**React & JavaScript · AI integration · Web applications**
 
 I build thoughtful, practical web applications - from clinical workflows to interview preparation and customer support tools. My background in therapy helps me understand real user needs, translate complex processes into clear interfaces, and build with empathy and product judgment.
 
@@ -39,6 +39,6 @@ An interactive workspace for fictional support cases, with ticket triage, knowle
 **AI and automation:** AI API integration, prompt engineering, Make, n8n  
 **Engineering:** Git, GitHub, Docker, GitHub Actions, CI/CD, Jest, React Testing Library, Vercel
 
-I'm looking for **Junior Frontend / React opportunities** and teams building useful, human-centered products, particularly in HealthTech and AI-enabled applications.
+I'm looking for **Junior Frontend / React roles** and opportunities in **AI integration**, including adding AI capabilities to existing products or building new AI-enabled web applications.
 
 **[Portfolio](https://tamtam888.github.io/MyPortfolio/)** · **[LinkedIn](https://www.linkedin.com/in/tamar-karwan-b4784b256/)** · **[Contact me](mailto:tkarwan@gmail.com)**
