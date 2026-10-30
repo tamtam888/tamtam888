@@ -1,6 +1,6 @@
-# Tamar Karwan | Frontend Developer · AI Integration
+# Tamar Karwan | Frontend Developer · React & JavaScript · AI-Assisted Development · AI Integration
 
-**React & JavaScript · AI integration · Web applications**
+**React & JavaScript · AI-assisted development (Vibe Coding) · AI API integration**
 
 I build thoughtful, practical web applications - from clinical workflows to interview preparation and customer support tools. My background in therapy helps me understand real user needs, translate complex processes into clear interfaces, and build with empathy and product judgment.
 
