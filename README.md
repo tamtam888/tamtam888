@@ -1,46 +1,44 @@
-# Hi, I'm Tamar Karwan 👋
+# Tamar Karwan | Frontend Developer
 
-### Frontend Developer | React & JavaScript | AI-Powered Web Applications
+**React & JavaScript · AI-powered web applications · HealthTech**
 
-I build web applications that solve real problems - from patient-care workflows to interview preparation and customer support.
+I build thoughtful, practical web applications - from clinical workflows to interview preparation and customer support tools. My background in therapy helps me understand real user needs, translate complex processes into clear interfaces, and build with empathy and product judgment.
 
-After years working directly with people in the therapy field, I bring a user-first perspective to software development. I care about clear interfaces, thoughtful product decisions, and making complex workflows feel simple.
+**[Explore my portfolio](https://tamtam888.github.io/MyPortfolio/)** · **[LinkedIn](https://www.linkedin.com/in/tamar-karwan-b4784b256/)** · **[Email](mailto:tkarwan@gmail.com)**
 
-**Explore my work:** [Portfolio](https://tamtam888.github.io/MyPortfolio/) · [LinkedIn](https://www.linkedin.com/in/tamar-karwan-b4784b256/) · [Email me](mailto:tkarwan@gmail.com)
+## Featured projects
 
-## Selected Work
+### 1. [MedicalCare](https://tamtam888.github.io/MyPortfolio/medicalcare.html) | HealthTech platform
+A clinical workspace for therapists covering patient intake, treatment documentation, scheduling, progress tracking and AI-assisted summaries. Developed for a pilot with real therapists, drawing on my firsthand care experience.
 
-### 🩺 [MedicalCare](https://tamtam888.github.io/MyPortfolio/medicalcare.html) - HealthTech for therapists
-A patient-management platform built around clinical workflows: intake, treatment documentation, scheduling, progress tracking, and AI-assisted summaries. Developed for a real therapist pilot, drawing on my firsthand experience in care settings.
+**React · JavaScript · Supabase · Medplum/FHIR · IndexedDB**  
+[View project](https://tamtam888.github.io/MyPortfolio/medicalcare.html) · [Live demo](https://demo-medical-care.vercel.app/) · [GitHub](https://github.com/tamtam888/MaddCare)
 
-**Built with:** React, JavaScript, Supabase, Medplum/FHIR, IndexedDB  
-[Case study](https://tamtam888.github.io/MyPortfolio/medicalcare.html) · [Live demo](https://demo-medical-care.vercel.app/) · [Code](https://github.com/tamtam888/MaddCare)
+### 2. [Interview Simulator](https://interview-sim-ten.vercel.app/) | Interview practice and feedback
+A bilingual Hebrew/English app with role-specific interviews, voice input, structured feedback, CV analysis and job-matching tools. Designed to make preparation more focused and actionable.
 
-### 🎤 [Interview Simulator](https://interview-sim-ten.vercel.app/) - Practice with structured feedback
-A bilingual Hebrew/English interview practice application with tailored questions, voice interaction, session feedback, and optional AI evaluation.
+**React · JavaScript · Vite · Supabase · AI integrations**  
+[Live demo](https://interview-sim-ten.vercel.app/) · [GitHub](https://github.com/tamtam888/InterviewSim)
 
-**Built with:** React, JavaScript, Vite, Supabase, AI API integrations  
-[Live demo](https://interview-sim-ten.vercel.app/) · [Code](https://github.com/tamtam888/InterviewSim)
+### 3. [CX Agent Assist](https://cx-agent-assist.vercel.app/) | Customer support copilot
+An interactive workspace for fictional support cases, with ticket triage, knowledge-base search, response drafting, internal notes and optional AI-powered conversations. A working product demonstration, not a live customer-service deployment.
 
-### 💬 [CX Agent Assist](https://cx-agent-assist.vercel.app/) - Customer support workspace
-An interactive support-agent workspace for fictional customer cases, including knowledge-base search, case analysis, internal notes, response drafting, and optional AI-powered conversations.
+**React · JavaScript · Vercel Functions · AI API integration**  
+[Live demo](https://cx-agent-assist.vercel.app/) · [GitHub](https://github.com/tamtam888/CX-Agent-Assist)
 
-**Built with:** React, JavaScript, Vite, Vercel Functions, AI API integrations  
-[Live demo](https://cx-agent-assist.vercel.app/) · [Code](https://github.com/tamtam888/CX-Agent-Assist)
+## More projects
 
-## More Projects
+- [VIBE Music](https://github.com/tamtam888/vibe-music-app) - Mood-based music experience with BPM-driven listening flow. [Demo](https://vibe-music-app-phi.vercel.app/)
+- [TaskAi](https://github.com/tamtam888/TaskAi) - Hebrew RTL task management with dashboards and Supabase authentication.
+- [TaskMan](https://github.com/tamtam888/TaskMan) - Gamified React productivity app with testing, Docker and GitHub Actions CI/CD. [Demo](https://taskman-yellow-user.vercel.app/)
 
-- **[VIBE Music](https://github.com/tamtam888/vibe-music-app)** - A music experience organized around mood, energy, and listening flow. [Demo](https://vibe-music-app-phi.vercel.app/)
-- **[TaskAi](https://github.com/tamtam888/TaskAi)** - A Hebrew RTL task-management application with authentication and dashboards. [Demo](https://task-1mezh0h1x-tamar-karwans-projects.vercel.app/login)
-- **[TaskMan](https://github.com/tamtam888/TaskMan)** - A gamified productivity application with testing, Docker, and GitHub Actions CI/CD. [Demo](https://taskman-yellow-user.vercel.app/)
+## Technical toolkit
 
-## What I Work With
+**Frontend:** React, JavaScript (ES6+), HTML, CSS, responsive design, Vite, Tailwind CSS  
+**Data and integrations:** REST APIs, Supabase, PostgreSQL, Medplum/FHIR, IndexedDB  
+**AI and automation:** AI API integration, prompt engineering, Make, n8n  
+**Engineering:** Git, GitHub, Docker, GitHub Actions, CI/CD, Jest, React Testing Library, Vercel
 
-**Frontend:** React, JavaScript (ES6+), HTML, CSS, responsive UI, Vite, Tailwind CSS  
-**Data & integrations:** REST APIs, Supabase, PostgreSQL, FHIR, IndexedDB  
-**AI & automation:** AI API integration, prompt design, Make, n8n  
-**Engineering tools:** Git, GitHub, Docker, GitHub Actions, CI/CD, Jest, React Testing Library, Vercel
+I'm looking for **Junior Frontend / React opportunities** and teams building useful, human-centered products, particularly in HealthTech and AI-enabled applications.
 
-I'm interested in **Junior Frontend / React roles** and opportunities building useful, user-centered products, including AI applications and HealthTech.
-
-**[View portfolio](https://tamtam888.github.io/MyPortfolio/)** · **[Connect on LinkedIn](https://www.linkedin.com/in/tamar-karwan-b4784b256/)** · **[Get in touch](mailto:tkarwan@gmail.com)**
+**[Portfolio](https://tamtam888.github.io/MyPortfolio/)** · **[LinkedIn](https://www.linkedin.com/in/tamar-karwan-b4784b256/)** · **[Contact me](mailto:tkarwan@gmail.com)**
